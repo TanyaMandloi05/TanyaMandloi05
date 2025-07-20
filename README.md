@@ -3,7 +3,7 @@
 '"
 <img align="right" alt="coding" height="250" width="250" src="https://i.pinimg.com/736x/bb/05/09/bb0509c1f90a4d2dd8caa81562011e16.jpg" border-radius="50%" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanyamandloi05&label=Profile%20views&color=0e75b6&style=flat" alt="tanyamandloi05" /> </p>
+<p align="left"> </p>
 
 - 📫 How to reach me **tanyamandloi2003@gmail.com**
 
