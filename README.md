@@ -1,24 +1,23 @@
 <h1 align="center">Hi, I'm Tanya Mandloi 👋</h1>
 <h3 align="center">
-Final-year MCA student | MERN Stack Developer | Daily DSA Practitioner (Java)
+Final-year MCA student | MERN Stack Developer | DSA (Java)
 </h3>
 
 <p align="center">
-I build full-stack web applications using the MERN stack and consistently practice Data Structures & Algorithms in Java to sharpen my problem-solving skills.
-<br />
-Focused on writing clean, scalable code and improving my logical thinking every day.
+I build scalable full-stack web applications using the MERN stack and practice
+Data Structures & Algorithms daily in Java to improve problem-solving skills.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanyamandloi05&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tanyamandloi05&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 🔍 What I’m Currently Working On
-- Solving **DSA problems daily (Java)** with a focus on patterns & optimization  
-- Building **full-stack MERN projects** with real-world features  
-- Strengthening **core CS fundamentals** (DBMS, OOPS, SQL, OS)
+### 🔍 Current Focus
+- Daily **DSA practice in Java** (patterns + optimization)
+- Building **real-world MERN stack projects**
+- Strengthening **DBMS, OOPS, SQL**
 
 ---
 
@@ -31,6 +30,8 @@ Focused on writing clean, scalable code and improving my logical thinking every 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
 </p>
@@ -39,15 +40,24 @@ Focused on writing clean, scalable code and improving my logical thinking every 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanyamandloi05&show_icons=true&theme=default" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=tanyamandloi05&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanyamandloi05" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=tanyamandloi05&theme=tokyonight&hide_border=true" 
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyamandloi05&layout=compact" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyamandloi05&layout=compact&theme=tokyonight&hide_border=true" 
+    height="160"
+  />
 </p>
 
 ---
@@ -68,4 +78,4 @@ Focused on writing clean, scalable code and improving my logical thinking every 
 ---
 
 📄 **Resume**  
-👉 https://drive.google.com/file/d/11t1u3b--0-qm0b2yT6VstoL_BYjv4dUt/view
+👉 https://drive.google.com/file/d/1HLo2SP9eeuCDRgCyRCWGS0dKnMxJV79c/view
