@@ -1,25 +1,22 @@
 <h1 align="center">Hi, I'm Tanya Mandloi 👋</h1>
+
 <h3 align="center">
-Final-year MCA student | MERN Stack Developer | DSA (Java)
+Final-year MCA student | MERN Stack Developer | DSA in Java
 </h3>
 
 <p align="center">
-I build scalable full-stack web applications using the MERN stack and practice
-Data Structures & Algorithms daily in Java to improve problem-solving skills.
+I build full-stack web applications using the MERN stack and practice
+Data Structures & Algorithms daily in Java to strengthen problem-solving skills.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanyamandloi05&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
+<hr/>
 
 ### 🔍 Current Focus
-- Daily **DSA practice in Java** (patterns + optimization)
-- Building **real-world MERN stack projects**
-- Strengthening **DBMS, OOPS, SQL**
+- Daily **DSA practice (Java)** with pattern-based problems  
+- Building **real-world MERN stack applications**  
+- Improving **DBMS, SQL, OOPS fundamentals**
 
----
+<hr/>
 
 ### 🛠 Tech Stack
 <p align="center">
@@ -36,46 +33,31 @@ Data Structures & Algorithms daily in Java to improve problem-solving skills.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
 </p>
 
----
+<hr/>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=tanyamandloi05&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="160"
-  />
-</p>
+### 📌 Highlighted Repositories
+- **DSA-Java** – Daily problem solving & pattern practice  
+- **HandyHub** – Full-stack E-commerce platform  
+- **Wanderlust** – Airbnb-style listing platform  
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=tanyamandloi05&theme=tokyonight&hide_border=true" 
-    height="160"
-  />
-</p>
+<hr/>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyamandloi05&layout=compact&theme=tokyonight&hide_border=true" 
-    height="160"
-  />
-</p>
-
----
-
-### 🔗 Connect With Me
+### 🤝 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/tanyamandloi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/tanyamandloi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/>
   </a>
+  &nbsp;
   <a href="mailto:tanyamandloi2003@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
+<hr/>
 
 📄 **Resume**  
 👉 https://drive.google.com/file/d/1HLo2SP9eeuCDRgCyRCWGS0dKnMxJV79c/view
