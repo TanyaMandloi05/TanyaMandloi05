@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tanya Mandloi 👋</h1>
 
 <h3 align="center">
-Final-year MCA student | MERN Stack Developer | DSA in Java
+ MCA student | MERN Stack Developer | DSA in Java
 </h3>
 
 <p align="center">
