@@ -20,7 +20,7 @@ Data Structures & Algorithms daily in Java to strengthen problem-solving skills.
 ### 🔍 Current Focus
 - Daily **DSA practice (Java)** with pattern-based problems  
 - Building **real-world MERN stack applications**
-- Exploring **AI Machine learning**
+- Exploring **AI and Machine learning**
 <hr/>
 
 ### 🛠 Tech Stack
