@@ -9,13 +9,18 @@ I build full-stack web applications using the MERN stack and practice
 Data Structures & Algorithms daily in Java to strengthen problem-solving skills.
 </p>
 
+<p align="center">
+  <img src="./doggo-doge.gif" alt="Doggo 1" width="100" />
+  <img src="./doggo-doge.gif" alt="Doggo 2" width="100" />
+  <img src="./doggo-doge.gif" alt="Doggo 3" width="100" />
+</p>
+
 <hr/>
 
 ### 🔍 Current Focus
 - Daily **DSA practice (Java)** with pattern-based problems  
-- Building **real-world MERN stack applications**  
-- Improving **DBMS, SQL, OOPS fundamentals**
-
+- Building **real-world MERN stack applications**
+- Exploring **AI Machine learning**
 <hr/>
 
 ### 🛠 Tech Stack
